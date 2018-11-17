@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mechima",
+  "name": "Mechima",
+  "description": "A mod about mechanical power and magic.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["firejar710"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
